@@ -35,7 +35,7 @@ a:hover {
 	align-items: center;
 }
 
-.nav a{
+.nav a {
 	color: #fff;
 	margin-right: 20px;
 	font-size: 18px;
@@ -55,7 +55,7 @@ a:hover {
 }
 
 .subtitulo {
-	color: rgba(255,255,255,.5);
+	color: rgba(255, 255, 255, .5);
 }
 
 .banderas button {
